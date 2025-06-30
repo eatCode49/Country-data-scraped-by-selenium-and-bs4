@@ -1,0 +1,1 @@
+Hi, my name is Adol. I'm a 15-year-old student with a strong interest in coding. I enjoy working on small projects for fun, and recently, I completed a project using BeautifulSoup and Selenium to collect basic data about all the countries. I'm always eager to learn and improve, so I'd really appreciate any feedback or suggestions you have on my code.
